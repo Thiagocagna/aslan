@@ -1,0 +1,56 @@
+*{margin:0; padding:0;}
+h2{
+    color: white
+    
+}
+/*
+.btn:hover{
+    color: white;
+}
+*/
+/*
+.owl-carousel{
+    width: 100vw;
+}
+*/
+
+body{
+    background-color: black;
+
+}
+
+#emailHelp{
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+.tc{
+    width: 50%;   
+}
+
+nav{
+    background-color: black;
+}
+
+p{
+    color: white;
+}
+
+h4{
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+#contenedor{
+    width: 60%;
+}
+#registerlink{
+    text-decoration: none;
+    color: white;
+}
